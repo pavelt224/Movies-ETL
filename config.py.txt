@@ -1,0 +1,2 @@
+db_password = 'Aiming2@sql'
+from config import db_password
