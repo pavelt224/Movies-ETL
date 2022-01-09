@@ -1,1 +1,1 @@
-db_password = 'Aiming2@sql'
+db_password = 'postgres'
